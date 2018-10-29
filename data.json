@@ -1,0 +1,25 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "title":"node js",
+            "author":"john Caater",
+            "topic":"javascript",
+            "url":"www.google/"
+        },
+        {
+            "id":2,
+            "title":"languaje",
+            "author":"john Caater",
+            "topic":"javascript",
+            "url":"www.google/"
+        },
+        {
+            "id":3,
+            "title":"php",
+            "author":"john Caater",
+            "topic":"javascript",
+            "url":"www.google/"
+        }
+    ]
+}
